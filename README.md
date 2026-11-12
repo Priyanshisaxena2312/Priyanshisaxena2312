@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Priyanshisaxena2312&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge" />
+
 
 <br/><br/>
 
@@ -35,7 +35,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=9B5CFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Development;Computer+Vision+%26+Deep+Learning;Building+Intelligent+Applications;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=2500&pause=700&color=9B5CFF&center=true&vCenter=true&width=850&lines=Artificial+Intelligence+%26+Machine+Learning;Full+Stack+Development;Building+Intelligent+Applications;Turning+Ideas+Into+Reality" />
 
 </div>
 
@@ -155,32 +155,6 @@ A web application built with modern frontend technologies.
 A simple and responsive GST calculation application.
 
 🔗 [Live Demo](https://gst-calculator-three-zeta.vercel.app/)
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Priyanshisaxena2312&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshisaxena2312&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=Priyanshisaxena2312&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Priyanshisaxena2312&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-
-</div>
 
 ---
 
